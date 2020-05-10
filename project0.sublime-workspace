@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Shashi",
+				"shashi_profile"
+			],
+			[
+				"profile",
+				"profile_picture"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4784,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Resume.html",
+			"settings":
+			{
+				"buffer_size": 5975,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<!doctype html>\n<html lang=\"en\">\n    <head>\n        <!-- Boostrap required meta tags -->\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <!-- Bootstrap CSS -->\n        <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\" integrity=\"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T\" crossorigin=\"anonymous\">\n        <link rel=\"stylesheet\" href=\"style.css\">\n        <title>Shashi Kumar Mishra</title>\n        <link rel=\"icon\" href=\"dna_icon.png\">\n    </head>\n    <body>\n        <!--Bootstrap navbar -->\n        <nav class=\"navbar navbar-expand-sm fixed-top navbar-dark bg-dark\">\n            <a class=\"navbar-brand\" href=\"index.html\">Shashi Kumar Mishra</a>\n            <button class=\"navbar-toggler\" data-toggle=\"collapse\" data-target=\"#navbarMenu\">\n            <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarMenu\">\n                <ul class=\"navbar-nav ml-auto\">\n                    <!-- Website pages -->\n                    <li class=\"nav-item\">\n                        <a href=\"Resume.html\" class=\"nav-link\">Resume</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a href=\"publication.html\" class=\"nav-link\">Publication</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a href=\"programing.html\" class=\"nav-link\">Programing</a>\n                    </li>\n                    <!-- Social media icons -->\n                    <li class=\"nav-item\">\n                        <a href=\"https://twitter.com/hellokashyape\" class=\"nav-link\"><img id=\"logo\" src=\"twitter-logo-png.png\" height=\"24\"></a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a href=\"https://www.linkedin.com/in/shashi-mishra-2820aa145/\" class=\"nav-link\"><img id = \"logo\" src=\"linkedin.png\" height=\"24\"></a>\n                    </li>\n                </ul>\n            </div>\n        </nav>\n\n        <!-- Content -->\n        <table class=\"table table-striped table-sm\">\n            <thead>\n                <tr>\n                    <td class=\"table-name\" colspan=\"2\"><b>Publications</b></td>\n                </tr>\n                <tr>\n                    <th scope=\"col\">Reference</th>\n                    <th scope=\"col\">No publication yet. Stay tune to see upcoming publication, Thank You!</th>\n                </tr>\n            </thead> \n        <footer>\n            <p class=\"footer\">Designed and implemented by Shashi Kumar Mishra for CS50W Project 0. May 2020.</p>\n        </footer>\n        <!-- Optional JavaScript -->\n        <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n        <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\" integrity=\"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo\" crossorigin=\"anonymous\"></script>\n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\" integrity=\"sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1\" crossorigin=\"anonymous\"></script>\n        <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\" integrity=\"sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM\" crossorigin=\"anonymous\"></script>\n    </body>\n</html>\n",
+			"file": "Publication.html",
+			"file_size": 3523,
+			"file_write_time": 132335732726737998,
+			"settings":
+			{
+				"buffer_size": 3460,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Programing.html",
+			"settings":
+			{
+				"buffer_size": 6361,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2232,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/* CSS styles shared between pages ---------------"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AMAN/Documents/project0/index.html",
+		"/C/Users/AMAN/Documents/project0.sublime-project",
+		"/C/Users/AMAN/Documents/project0/Curriculum.html",
+		"/C/Users/AMAN/Desktop/New folder/first/application.py",
+		"/C/Users/AMAN/Documents/publications.html",
+		"/C/Users/AMAN/Documents/style.scss",
+		"/C/Users/AMAN/Downloads/linkedin.png",
+		"/C/Users/AMAN/Downloads/profile.jpg",
+		"/C/Users/AMAN/Downloads/linkedin-icon-square.png",
+		"/C/Users/AMAN/Documents/project0.1",
+		"/C/Users/AMAN/Documents/index1.htm"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4017,
+								4017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5079,
+								5156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1651.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Publication.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2592,
+								2592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 874.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Programing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* CSS styles shared between pages ---------------",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project0.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
